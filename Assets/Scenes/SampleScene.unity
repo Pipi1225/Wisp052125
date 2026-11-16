@@ -377,7 +377,7 @@ GameObject:
   - component: {fileID: 698055343}
   m_Layer: 6
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -747,6 +747,7 @@ MonoBehaviour:
   jumpForce: 6
   sensitivity: 5
   gravity: 3
+  jumpable: 1
   maxHealth: 100
   currentHealth: 0
 --- !u!1660057539 &9223372036854775807
